@@ -1,0 +1,26 @@
+Aprendiz: Angelli Catherine Rincon Bonfante
+
+Problema: Cafetería “El Rincón del Sabor”
+
+Una cafetería en Cartagena quiere automatizar el cálculo de las cuentas de sus clientes según el menú:
+Café americano: $3.500
+Capuchino: $4.500   
+Té aromático: $2.500
+Jugo natural: $5.000
+
+Reglas del negocio
+Si el cliente compra más de 5 bebidas, recibe un 10 % de descuento.
+Si el cliente es menor de 14 años, recibe un 20 % de descuento adicional sobre el subtotal.
+El programa debe mostrar un mensaje final con el subtotal, el descuento aplicado (si hay) y el total a pagar.
+
+Entradas (inputs)
+bebida: texto (tipo de bebida del menú).
+cantidad: número (cuántas bebidas pide).
+edad: número (años del cliente).
+
+Salidas (outputs)
+Mensaje indicando si aplica algún descuento.
+Tipo de bebida elegida y cantidad solicitada.
+Subtotal.
+Descuento total.
+Total a pagar.
